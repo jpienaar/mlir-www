@@ -1,0 +1,4 @@
+<map id="include/mlir/Dialect/Vector/VectorRewritePatterns.h" name="include/mlir/Dialect/Vector/VectorRewritePatterns.h">
+<area shape="rect" id="node2" href="$ConvertVectorToLLVM_8cpp.html" title="lib/Conversion/VectorToLLVM\l/ConvertVectorToLLVM.cpp" alt="" coords="5,102,212,143"/>
+<area shape="rect" id="node3" href="$VectorInsertExtractStridedSliceRewritePatterns_8cpp.html" title="lib/Dialect/Vector\l/VectorInsertExtractStrided\lSliceRewritePatterns.cpp" alt="" coords="236,95,432,151"/>
+</map>
